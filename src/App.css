@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Manrope:wght@300;400&display=swap');
+body{
+  background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/3723.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-div{
+      
+     height:800px;
+     width:800px;
+     background-color: white;
+     border-radius: 10px;
+     opacity: 0.6;
+     margin-left:400px;
+     margin-top: 20px;
+     
+     
+      
+  
+      
+     
+}
+
+
+.span{
+  font-family: 'AR One Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
+  color:rgb(41, 41, 255);
+  margin-left: 300px;
+  font-size: 50px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 800;
+  margin-top: 200px;
+  position: relative;
+  top: 75px;
+  
+}
+
+.weather-icon{
+  height:150px;
+  width:150px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 150px;
+  border-radius: 10px;
+  
+}
+
+
+.search{
+     height:30px;
+     width: 400px;
+     margin-left: 200px;
+     border-radius: 10px;
+     background-color: rgb(95, 88, 88);
+     opacity: 1;
+     color:rgb(255, 255, 255);
+     border-width: 0;
+}
+
+.button {
+    
+    background-color: rgb(11, 11, 245);
+    color:white;
+    border-radius: 5px;
+    padding: 20 20 20 20;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+}
+
+.Weatherbox{
+
+   height: 300px;
+   width:300px;
+   border-radius: 10px;
+   color:rgb(0, 0, 0);
+   font-family: 'AR One Sans', sans-serif;
+   font-family: 'Manrope', sans-serif;
+   margin-left: 300px;
+   font-weight: bold;
+   border-width: 30px black;
+   margin-top: 20px;
+
+
+}
+
+.errorclass{
+  margin-left: 10px;
+}
